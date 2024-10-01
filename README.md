@@ -20,7 +20,7 @@ With over 10 years of experience, I'm a passionate tech leader who thrives on dr
 - Spring Boot + Java 21 + GCP - [https://github.com/swapnil-srivastava/laughing-memory](https://github.com/swapnil-srivastava/refactored-octo-umbrella)
 - Spring Boot + Java 21 + AWS - [https://github.com/swapnil-srivastava/refactored-octo-umbrella](https://github.com/swapnil-srivastava/ideal-guacamole)
 - Spring Boot + Java 21 + Azure - [https://github.com/swapnil-srivastava/ideal-guacamole](https://github.com/swapnil-srivastava/cuddly-eureka)
-- 
+
 - Spring Boot + Java 21 + Docker Hub - Heroku - HerokuPostGRES - [https://github.com/swapnil-srivastava/cuddly-eureka](https://github.com/swapnil-srivastava/urban-octo-guide)
 
 💼 Open to collaborating on innovative projects that push the boundaries of web development and cloud technologies.
