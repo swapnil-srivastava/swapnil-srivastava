@@ -1,5 +1,3 @@
-Based on your resume and the latest tech trends, here's a professional summary for your GitHub README.md:
-
 # 👋 Hi, I'm @swapnil-srivastava
 
 ## Tech Lead | Full Stack Developer | Cloud Enthusiast
